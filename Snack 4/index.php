@@ -9,7 +9,7 @@ tenendo conto che l'array non dovrà contenere lo stesso numero più di una volt
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Snack4</title>
+    <title>Snack 4</title>
 </head>
 <body>
 
